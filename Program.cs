@@ -121,7 +121,7 @@ namespace DemoConsoleApp
 
             int[,] maTran = new int[hang,cot]; //tao ra mang gom n phan tu
 
-
+            //edit
             Console.ReadKey();
         }
     }
